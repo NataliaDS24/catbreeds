@@ -15,3 +15,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # catbreeds
+
+
+To run the project modify the launch.json like this
+
+{
+    "name": "catbreeds",
+    "request": "launch",
+    "program": "lib/main_development.dart",
+     "type": "dart"
+},
